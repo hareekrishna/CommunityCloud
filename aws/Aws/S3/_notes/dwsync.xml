@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ApplyMd5Middleware.php" server="ftp.communitycloud.in" local="130862051728406280" remote="130797033000000000" Dst="0" />
+<file name="BatchDelete.php" server="ftp.communitycloud.in" local="130862051731742056" remote="130797033000000000" Dst="0" />
+<file name="BucketEndpointMiddleware.php" server="ftp.communitycloud.in" local="130862051731832110" remote="130797033000000000" Dst="0" />
+<file name="GetBucketLocationParser.php" server="ftp.communitycloud.in" local="130862051759213585" remote="130797033000000000" Dst="0" />
+<file name="MultipartUploader.php" server="ftp.communitycloud.in" local="130862051759333673" remote="130797033000000000" Dst="0" />
+<file name="PermanentRedirectMiddleware.php" server="ftp.communitycloud.in" local="130862051759423710" remote="130797033000000000" Dst="0" />
+<file name="PostObject.php" server="ftp.communitycloud.in" local="130862051771447009" remote="130797033000000000" Dst="0" />
+<file name="PutObjectUrlMiddleware.php" server="ftp.communitycloud.in" local="130862051771527083" remote="130797033000000000" Dst="0" />
+<file name="S3Client.php" server="ftp.communitycloud.in" local="130862051772722259" remote="130797033000000000" Dst="0" />
+<file name="S3UriParser.php" server="ftp.communitycloud.in" local="130862051781380212" remote="130797033000000000" Dst="0" />
+<file name="SSECMiddleware.php" server="ftp.communitycloud.in" local="130862051781440252" remote="130797033000000000" Dst="0" />
+<file name="StreamWrapper.php" server="ftp.communitycloud.in" local="130862051782695673" remote="130797033000000000" Dst="0" />
+<file name="Transfer.php" server="ftp.communitycloud.in" local="130862051791957871" remote="130797033000000000" Dst="0" />
+</dwsync>

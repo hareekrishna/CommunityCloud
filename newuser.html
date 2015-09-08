@@ -1,0 +1,115 @@
+<!doctype html>
+<html>
+    <head>
+   	   <meta charset="utf-8">
+    <title>NewUser::CommunityCloud</title>
+        <script type="text/javascript" src="library/jquery.min.js" ></script>
+    </head>
+    
+    <body>
+    	<style>
+        	body{
+				font-family:verdana;
+				color:#333;
+				background-color:white;
+				text-align:center;
+				}
+			p{
+				margin :0 0 0 0;
+				}
+			span{
+				color:#969696;
+				}
+			.main_container_outer{
+				margin:20% 5%;
+				}
+			.img_outer img{
+				 padding: 0% 1%;
+ 				 width: 20%;
+				}
+			.img_outer p{
+				color: black;
+  				font-size: 7vw;
+				}
+			.buttons{
+				margin-top:8%;
+				}
+			button{
+				margin:3%;
+				padding:5% 7%;
+				width:70%;
+				background-color:rgba(0, 0, 0, 0.18);
+				border: 1px solid #5E5C5C;
+				}
+        </style>
+		<script type="text/javascript">
+		
+			
+	function ready(){
+		
+					window.NewUser.scan();
+					}
+		
+	function f(){	
+				var mobile_no=getUrlParameter('num');
+				if(mobile_no){
+					$("button").fadeOut(500);
+					$(".img_outer p").animate({'font-size':'10vw'},500);
+					$(".text_outer p").html("Redirecting..");
+					$.ajax({
+						url:'auth.php',
+						dataType:"text",
+						type:'POST',
+						data:{
+							flag:'authenticate',
+							mobile_no:mobile_no
+							},
+						success:function(data){
+							
+							window.JSInterface.donow(data);
+							},
+						error:function(jXHR,errorThrown,textstatus){
+							alert(errorThrown);
+							}
+					
+						});
+				}
+				else {
+					window.location.replace("error.html");
+				}
+				}
+	$(function(){
+		var check=/AppName\/[0-9\.]+$/.test(navigator.userAgent);
+		if(check){
+		var mobile_no=getUrlParameter('num');
+		if(mobile_no){
+			
+			}
+			else {
+				//window.location.replace("error.html");
+			}
+		}
+		else {
+				//window.location.replace("error.html");
+			}
+		
+		});
+        </script>
+        <div class='global_container'>
+        	<div class='main_container_outer'>
+            	<div class='main_container_inner'>
+                	<div class="img_outer">
+                    	<img src="img/logo.png"><p>CommunityCloud</p>
+                    </div><br/>
+                    <div class="text_outer">
+                		<p>CommunityCloud helps you to store and share files across your community.<br/><br/><br/><br/><br/><br/><span>Looks like you are using this device for first time so,help yourself to configuring this new device..<span></p>
+                    </div>
+                    <div class="buttons">
+                    	<button onClick="ready();">Ready?</button><br/>
+                        <button onClick="help();">Help</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

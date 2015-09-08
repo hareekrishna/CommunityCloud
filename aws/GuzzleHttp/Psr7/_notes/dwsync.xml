@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AppendStream.php" server="ftp.communitycloud.in" local="130862053813607605" remote="130797033600000000" Dst="0" />
+<file name="BufferStream.php" server="ftp.communitycloud.in" local="130862053813717668" remote="130797033600000000" Dst="0" />
+<file name="CachingStream.php" server="ftp.communitycloud.in" local="130862053813787713" remote="130797033600000000" Dst="0" />
+<file name="DroppingStream.php" server="ftp.communitycloud.in" local="130862053841140972" remote="130797033600000000" Dst="0" />
+<file name="FnStream.php" server="ftp.communitycloud.in" local="130862053841555384" remote="130797033600000000" Dst="0" />
+<file name="InflateStream.php" server="ftp.communitycloud.in" local="130862053841605420" remote="130797033600000000" Dst="0" />
+<file name="LazyOpenStream.php" server="ftp.communitycloud.in" local="130862053859589288" remote="130797033600000000" Dst="0" />
+<file name="LimitStream.php" server="ftp.communitycloud.in" local="130862053859709384" remote="130797033600000000" Dst="0" />
+<file name="MessageTrait.php" server="ftp.communitycloud.in" local="130862053859849498" remote="130797033600000000" Dst="0" />
+<file name="MultipartStream.php" server="ftp.communitycloud.in" local="130862053874647471" remote="130797033600000000" Dst="0" />
+<file name="NoSeekStream.php" server="ftp.communitycloud.in" local="130862053874717564" remote="130797033600000000" Dst="0" />
+<file name="PumpStream.php" server="ftp.communitycloud.in" local="130862053874837595" remote="130797033600000000" Dst="0" />
+<file name="Request.php" server="ftp.communitycloud.in" local="130862053890613820" remote="130797033600000000" Dst="0" />
+<file name="Response.php" server="ftp.communitycloud.in" local="130862053890663860" remote="130797033600000000" Dst="0" />
+<file name="Stream.php" server="ftp.communitycloud.in" local="130862053890733896" remote="130797033600000000" Dst="0" />
+<file name="StreamWrapper.php" server="ftp.communitycloud.in" local="130862053919649661" remote="130797033600000000" Dst="0" />
+<file name="StreamDecoratorTrait.php" server="ftp.communitycloud.in" local="130862053919899829" remote="130797033600000000" Dst="0" />
+<file name="Uri.php" server="ftp.communitycloud.in" local="130862053921451681" remote="130797033600000000" Dst="0" />
+<file name="functions.php" server="ftp.communitycloud.in" local="130862053950190249" remote="130797033600000000" Dst="0" />
+</dwsync>

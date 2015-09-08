@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractParser.php" server="ftp.communitycloud.in" local="130862050633065424" remote="130797028800000000" Dst="0" />
+<file name="AbstractRestParser.php" server="ftp.communitycloud.in" local="130862050643690939" remote="130797028800000000" Dst="0" />
+<file name="Crc32ValidatingParser.php" server="ftp.communitycloud.in" local="130862050643690939" remote="130797028800000000" Dst="0" />
+<file name="JsonParser.php" server="ftp.communitycloud.in" local="130862050643690939" remote="130797028800000000" Dst="0" />
+<file name="RestJsonParser.php" server="ftp.communitycloud.in" local="130862050651191311" remote="130797028800000000" Dst="0" />
+<file name="QueryParser.php" server="ftp.communitycloud.in" local="130862050657595732" remote="130797028800000000" Dst="0" />
+<file name="JsonRpcParser.php" server="ftp.communitycloud.in" local="130862050657655735" remote="130797028800000000" Dst="0" />
+<file name="RestXmlParser.php" server="ftp.communitycloud.in" local="130862050666976035" remote="130797028800000000" Dst="0" />
+<file name="XmlParser.php" server="ftp.communitycloud.in" local="130862050667076105" remote="130797028800000000" Dst="0" />
+</dwsync>

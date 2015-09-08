@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AggregateException.php" server="ftp.communitycloud.in" local="130862053726577325" remote="130797033600000000" Dst="0" />
+<file name="CancellationException.php" server="ftp.communitycloud.in" local="130862053726617380" remote="130797033600000000" Dst="0" />
+<file name="Promise.php" server="ftp.communitycloud.in" local="130862053746093414" remote="130797033600000000" Dst="0" />
+<file name="FulfilledPromise.php" server="ftp.communitycloud.in" local="130862053753936492" remote="130797033600000000" Dst="0" />
+<file name="EachPromise.php" server="ftp.communitycloud.in" local="130862053754026550" remote="130797033600000000" Dst="0" />
+<file name="RejectedPromise.php" server="ftp.communitycloud.in" local="130862053771591105" remote="130797033600000000" Dst="0" />
+<file name="PromiseInterface.php" server="ftp.communitycloud.in" local="130862053775834260" remote="130797033600000000" Dst="0" />
+<file name="PromisorInterface.php" server="ftp.communitycloud.in" local="130862053775904333" remote="130797033600000000" Dst="0" />
+<file name="functions.php" server="ftp.communitycloud.in" local="130862053788403509" remote="130797033600000000" Dst="0" />
+<file name="RejectionException.php" server="ftp.communitycloud.in" local="130862053796237239" remote="130797033600000000" Dst="0" />
+<file name="TaskQueue.php" server="ftp.communitycloud.in" local="130862053796517433" remote="130797033600000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AwsClientInterface.php" server="ftp.communitycloud.in" local="130862050750431981" remote="130797029400000000" Dst="0" />
+<file name="AwsClient.php" server="ftp.communitycloud.in" local="130862050750531977" remote="130797029400000000" Dst="0" />
+<file name="CacheInterface.php" server="ftp.communitycloud.in" local="130862050761055791" remote="130797029400000000" Dst="0" />
+<file name="ClientResolver.php" server="ftp.communitycloud.in" local="130862050761368319" remote="130797029400000000" Dst="0" />
+<file name="Command.php" server="ftp.communitycloud.in" local="130862050934658982" remote="130797029400000000" Dst="0" />
+<file name="CommandInterface.php" server="ftp.communitycloud.in" local="130862050934748998" remote="130797029400000000" Dst="0" />
+<file name="CommandPool.php" server="ftp.communitycloud.in" local="130862050943135300" remote="130797029400000000" Dst="0" />
+<file name="HandlerList.php" server="ftp.communitycloud.in" local="130862051357092034" remote="130797032400000000" Dst="0" />
+<file name="HasDataTrait.php" server="ftp.communitycloud.in" local="130862051362712928" remote="130797032400000000" Dst="0" />
+<file name="HashInterface.php" server="ftp.communitycloud.in" local="130862051385917302" remote="130797032400000000" Dst="0" />
+<file name="HashingStream.php" server="ftp.communitycloud.in" local="130862051385987375" remote="130797032400000000" Dst="0" />
+<file name="History.php" server="ftp.communitycloud.in" local="130862051386097397" remote="130797032400000000" Dst="0" />
+<file name="JsonCompiler.php" server="ftp.communitycloud.in" local="130862051412465945" remote="130797032400000000" Dst="0" />
+<file name="LruArrayCache.php" server="ftp.communitycloud.in" local="130862051539719467" remote="130797033000000000" Dst="0" />
+<file name="Middleware.php" server="ftp.communitycloud.in" local="130862051582909858" remote="130797033000000000" Dst="0" />
+<file name="MockHandler.php" server="ftp.communitycloud.in" local="130862051592441564" remote="130797033000000000" Dst="0" />
+<file name="PhpHash.php" server="ftp.communitycloud.in" local="130862051614478226" remote="130797033000000000" Dst="0" />
+<file name="Result.php" server="ftp.communitycloud.in" local="130862051683889290" remote="130797033000000000" Dst="0" />
+<file name="ResultInterface.php" server="ftp.communitycloud.in" local="130862051696702389" remote="130797033000000000" Dst="0" />
+<file name="ResultPaginator.php" server="ftp.communitycloud.in" local="130862051696702389" remote="130797033000000000" Dst="0" />
+<file name="RetryMiddleware.php" server="ftp.communitycloud.in" local="130862051696858636" remote="130797033000000000" Dst="0" />
+<file name="Sdk.php" server="ftp.communitycloud.in" local="130862051792107956" remote="130797033000000000" Dst="0" />
+<file name="TraceMiddleware.php" server="ftp.communitycloud.in" local="130862051975758875" remote="130797033600000000" Dst="0" />
+<file name="Waiter.php" server="ftp.communitycloud.in" local="130862051990169333" remote="130797033600000000" Dst="0" />
+<file name="WrappedHttpHandler.php" server="ftp.communitycloud.in" local="130862052027250715" remote="130797033600000000" Dst="0" />
+<file name="functions.php" server="ftp.communitycloud.in" local="130862053553012191" remote="130797032400000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CompilerRuntime.php" server="ftp.communitycloud.in" local="130862053984884259" remote="130797033600000000" Dst="0" />
+<file name="DebugRuntime.php" server="ftp.communitycloud.in" local="130862053985044362" remote="130797033600000000" Dst="0" />
+<file name="AstRuntime.php" server="ftp.communitycloud.in" local="130862053985154400" remote="130797033600000000" Dst="0" />
+<file name="FnDispatcher.php" server="ftp.communitycloud.in" local="130862054000092662" remote="130797033600000000" Dst="0" />
+<file name="JmesPath.php" server="ftp.communitycloud.in" local="130862054007189337" remote="130797033600000000" Dst="0" />
+<file name="Env.php" server="ftp.communitycloud.in" local="130862054007359395" remote="130797033600000000" Dst="0" />
+<file name="Lexer.php" server="ftp.communitycloud.in" local="130862054041019123" remote="130797033600000000" Dst="0" />
+<file name="Parser.php" server="ftp.communitycloud.in" local="130862054041229269" remote="130797033600000000" Dst="0" />
+<file name="SyntaxErrorException.php" server="ftp.communitycloud.in" local="130862054041359308" remote="130797033600000000" Dst="0" />
+<file name="Utils.php" server="ftp.communitycloud.in" local="130862054056368551" remote="130797033600000000" Dst="0" />
+<file name="TreeCompiler.php" server="ftp.communitycloud.in" local="130862054059791503" remote="130797033600000000" Dst="0" />
+<file name="TreeInterpreter.php" server="ftp.communitycloud.in" local="130862054059981622" remote="130797033600000000" Dst="0" />
+</dwsync>

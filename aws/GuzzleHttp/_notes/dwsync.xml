@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Client.php" server="ftp.communitycloud.in" local="130862053547973694" remote="130797033600000000" Dst="0" />
+<file name="ClientInterface.php" server="ftp.communitycloud.in" local="130862053570125632" remote="130797033600000000" Dst="0" />
+<file name="HandlerStack.php" server="ftp.communitycloud.in" local="130862053676695262" remote="130797033600000000" Dst="0" />
+<file name="MessageFormatter.php" server="ftp.communitycloud.in" local="130862053698033380" remote="130797033600000000" Dst="0" />
+<file name="Middleware.php" server="ftp.communitycloud.in" local="130862053698233534" remote="130797033600000000" Dst="0" />
+<file name="Pool.php" server="ftp.communitycloud.in" local="130862053698343568" remote="130797033600000000" Dst="0" />
+<file name="PrepareBodyMiddleware.php" server="ftp.communitycloud.in" local="130862053726517289" remote="130797033600000000" Dst="0" />
+<file name="RedirectMiddleware.php" server="ftp.communitycloud.in" local="130862053950020126" remote="130797033600000000" Dst="0" />
+<file name="RequestOptions.php" server="ftp.communitycloud.in" local="130862053953851628" remote="130797033600000000" Dst="0" />
+<file name="RetryMiddleware.php" server="ftp.communitycloud.in" local="130862053967783689" remote="130797033600000000" Dst="0" />
+<file name="UriTemplate.php" server="ftp.communitycloud.in" local="130862053967973776" remote="130797033600000000" Dst="0" />
+<file name="functions.php" server="ftp.communitycloud.in" local="130862053968133882" remote="130797033600000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,132 @@
+[29-May-2015 09:51:11 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 16777216 bytes) in /home/harikrishnad9/public_html/index.php on line 881
+[29-May-2015 09:52:22 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 16777216 bytes) in /home/harikrishnad9/public_html/index.php on line 881
+[29-May-2015 09:53:13 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 16777216 bytes) in /home/harikrishnad9/public_html/index.php on line 881
+[29-May-2015 09:53:29 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 16777216 bytes) in /home/harikrishnad9/public_html/index.php on line 881
+[29-May-2015 09:54:26 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 16777216 bytes) in /home/harikrishnad9/public_html/index.php on line 881
+[29-May-2015 09:54:55 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 16777216 bytes) in /home/harikrishnad9/public_html/index.php on line 881
+[29-May-2015 09:57:24 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 16777216 bytes) in /home/harikrishnad9/public_html/index.php on line 881
+[31-May-2015 18:11:56 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 32
+[31-May-2015 18:34:20 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 32
+[31-May-2015 18:35:57 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 32
+[01-Jun-2015 09:35:07 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 32
+[01-Jun-2015 10:41:54 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/index.php on line 815
+[01-Jun-2015 10:43:08 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/index.php on line 815
+[01-Jun-2015 10:43:24 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/index.php on line 815
+[01-Jun-2015 10:43:30 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/index.php on line 815
+[01-Jun-2015 10:45:28 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/index.php on line 815
+[01-Jun-2015 10:48:01 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/index.php on line 815
+[01-Jun-2015 17:12:51 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 34
+[02-Jun-2015 12:00:56 UTC] PHP Fatal error:  Uncaught exception 'AESCryptFileMissingException' with message 'data/mem_folder_0/temp.cc' in /home/harikrishnad9/public_html/aes256/AESCryptFileLib.php:141
+Stack trace:
+#0 /home/harikrishnad9/public_html/aes256/AESCryptFileLib.php(43): AESCryptFileLib->checkSourceExistsAndReadable('data/mem_folder...')
+#1 /home/harikrishnad9/public_html/index.php(881): AESCryptFileLib->encryptFile('data/mem_folder...', '82b54101b467450...', 'data/mem_folder...')
+#2 {main}
+  thrown in /home/harikrishnad9/public_html/aes256/AESCryptFileLib.php on line 141
+[08-Jun-2015 18:08:34 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 774
+[24-Jun-2015 05:56:29 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 665
+[24-Jun-2015 05:57:08 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 665
+[24-Jun-2015 05:59:27 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 665
+[24-Jun-2015 05:59:39 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 665
+[24-Jun-2015 08:36:38 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 610
+[24-Jun-2015 08:36:41 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 75
+[24-Jun-2015 08:49:28 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 610
+[24-Jun-2015 18:12:50 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 739
+[24-Jun-2015 18:14:24 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 739
+[24-Jun-2015 18:22:17 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 739
+[24-Jun-2015 21:32:26 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 739
+[24-Jun-2015 21:33:04 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 739
+[24-Jun-2015 21:36:00 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 739
+[24-Jun-2015 21:39:42 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 739
+[24-Jun-2015 21:42:25 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 739
+[24-Jun-2015 22:06:00 UTC] PHP Fatal error:  Call to undefined function alert() in /home/harikrishnad9/public_html/infogiver.php on line 826
+[24-Jun-2015 22:11:03 UTC] PHP Fatal error:  Call to undefined function result() in /home/harikrishnad9/public_html/infogiver.php on line 878
+[24-Jun-2015 22:44:02 UTC] PHP Fatal error:  Call to undefined function result() in /home/harikrishnad9/public_html/infogiver.php on line 920
+[24-Jun-2015 22:50:12 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 932
+[24-Jun-2015 22:50:39 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 933
+[24-Jun-2015 22:50:46 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 933
+[24-Jun-2015 22:51:30 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 933
+[24-Jun-2015 22:51:56 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 933
+[24-Jun-2015 22:55:28 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 933
+[24-Jun-2015 23:08:17 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 933
+[24-Jun-2015 23:10:28 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 933
+[24-Jun-2015 23:11:32 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 933
+[24-Jun-2015 23:11:51 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 933
+[24-Jun-2015 23:12:17 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 933
+[24-Jun-2015 23:12:40 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 933
+[24-Jun-2015 23:13:30 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 932
+[24-Jun-2015 23:13:50 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 932
+[24-Jun-2015 23:15:41 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 931
+[24-Jun-2015 23:16:13 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 931
+[24-Jun-2015 23:20:15 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 931
+[24-Jun-2015 23:20:31 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 932
+[24-Jun-2015 23:21:29 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 932
+[24-Jun-2015 23:24:48 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 931
+[24-Jun-2015 23:26:02 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 931
+[24-Jun-2015 23:26:55 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 931
+[24-Jun-2015 23:27:13 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 931
+[24-Jun-2015 23:28:07 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 931
+[24-Jun-2015 23:31:30 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 931
+[24-Jun-2015 23:33:44 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 931
+[24-Jun-2015 23:34:21 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 931
+[24-Jun-2015 23:34:24 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 931
+[24-Jun-2015 23:34:45 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 931
+[24-Jun-2015 23:35:32 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 931
+[24-Jun-2015 23:36:14 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 931
+[24-Jun-2015 23:37:06 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 931
+[24-Jun-2015 23:37:39 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 931
+[24-Jun-2015 23:38:04 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 931
+[24-Jun-2015 23:38:48 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 931
+[24-Jun-2015 23:39:07 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 931
+[24-Jun-2015 23:52:36 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/auth.php on line 22
+[25-Jun-2015 00:06:34 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/auth.php on line 22
+[25-Jun-2015 00:09:29 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/auth.php on line 22
+[25-Jun-2015 00:11:18 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/auth.php on line 22
+[25-Jun-2015 00:11:42 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/auth.php on line 22
+[25-Jun-2015 00:13:09 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/auth.php on line 22
+[25-Jun-2015 00:13:50 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/auth.php on line 22
+[25-Jun-2015 00:14:43 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/auth.php on line 22
+[25-Jun-2015 00:15:23 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/auth.php on line 22
+[25-Jun-2015 00:40:30 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/auth.php on line 36
+[25-Jun-2015 15:14:52 UTC] PHP Fatal error:  Uncaught exception 'AESCryptFileMissingException' with message 'data/mem_folder_/temp.cc' in /home/harikrishnad9/public_html/aes256/AESCryptFileLib.php:141
+Stack trace:
+#0 /home/harikrishnad9/public_html/aes256/AESCryptFileLib.php(43): AESCryptFileLib->checkSourceExistsAndReadable('data/mem_folder...')
+#1 /home/harikrishnad9/public_html/index.php(897): AESCryptFileLib->encryptFile('data/mem_folder...', '24273396132ddf2...', 'data/mem_folder...')
+#2 {main}
+  thrown in /home/harikrishnad9/public_html/aes256/AESCryptFileLib.php on line 141
+[25-Jun-2015 15:17:31 UTC] PHP Fatal error:  Uncaught exception 'AESCryptFileMissingException' with message 'data/mem_folder_/temp.cc' in /home/harikrishnad9/public_html/aes256/AESCryptFileLib.php:141
+Stack trace:
+#0 /home/harikrishnad9/public_html/aes256/AESCryptFileLib.php(43): AESCryptFileLib->checkSourceExistsAndReadable('data/mem_folder...')
+#1 /home/harikrishnad9/public_html/index.php(897): AESCryptFileLib->encryptFile('data/mem_folder...', 'a9d82f206c61a0a...', 'data/mem_folder...')
+#2 {main}
+  thrown in /home/harikrishnad9/public_html/aes256/AESCryptFileLib.php on line 141
+[25-Jun-2015 15:18:34 UTC] PHP Fatal error:  Uncaught exception 'AESCryptFileMissingException' with message 'data/mem_folder_/temp.cc' in /home/harikrishnad9/public_html/aes256/AESCryptFileLib.php:141
+Stack trace:
+#0 /home/harikrishnad9/public_html/aes256/AESCryptFileLib.php(43): AESCryptFileLib->checkSourceExistsAndReadable('data/mem_folder...')
+#1 /home/harikrishnad9/public_html/index.php(897): AESCryptFileLib->encryptFile('data/mem_folder...', 'a6a43a962e5eaec...', 'data/mem_folder...')
+#2 {main}
+  thrown in /home/harikrishnad9/public_html/aes256/AESCryptFileLib.php on line 141
+[25-Jun-2015 15:19:07 UTC] PHP Fatal error:  Uncaught exception 'AESCryptFileMissingException' with message 'data/mem_folder_/temp.cc' in /home/harikrishnad9/public_html/aes256/AESCryptFileLib.php:141
+Stack trace:
+#0 /home/harikrishnad9/public_html/aes256/AESCryptFileLib.php(43): AESCryptFileLib->checkSourceExistsAndReadable('data/mem_folder...')
+#1 /home/harikrishnad9/public_html/index.php(897): AESCryptFileLib->encryptFile('data/mem_folder...', '2c969d69ebf399e...', 'data/mem_folder...')
+#2 {main}
+  thrown in /home/harikrishnad9/public_html/aes256/AESCryptFileLib.php on line 141
+[25-Jun-2015 21:25:51 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 642
+[25-Jun-2015 21:27:54 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 642
+[25-Jun-2015 21:29:01 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 642
+[25-Jun-2015 21:36:51 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 642
+[25-Jun-2015 21:56:45 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 696
+[25-Jun-2015 21:59:29 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 696
+[25-Jun-2015 22:00:57 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 696
+[25-Jun-2015 22:01:58 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 696
+[25-Jun-2015 22:02:15 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 696
+[25-Jun-2015 22:03:24 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 696
+[14-Jul-2015 18:06:07 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 846
+[14-Jul-2015 21:42:33 UTC] PHP Fatal error:  Uncaught exception 'AESCryptImplementationException' with message 'Returned a random key which is not 32 bytes long: 9dfc878855809ae4421ad1c558bed90d' in /home/harikrishnad9/public_html/aes256/AESCryptFileLib.php:314
+Stack trace:
+#0 /home/harikrishnad9/public_html/aes256/AESCryptFileLib.php(52): AESCryptFileLib->doEncryptFile('data/mem_folder...', '041bc5702283895...', 'data/mem_folder...', NULL)
+#1 /home/harikrishnad9/public_html/index.php(952): AESCryptFileLib->encryptFile('data/mem_folder...', '041bc5702283895...', 'data/mem_folder...')
+#2 {main}
+  thrown in /home/harikrishnad9/public_html/aes256/AESCryptFileLib.php on line 314
+[15-Jul-2015 12:43:03 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 698
+[15-Jul-2015 12:45:00 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/harikrishnad9/public_html/infogiver.php on line 698

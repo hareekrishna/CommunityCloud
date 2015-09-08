@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BadResponseException.php" server="ftp.communitycloud.in" local="130862053595023597" remote="130797033600000000" Dst="0" />
+<file name="ClientException.php" server="ftp.communitycloud.in" local="130862053595073616" remote="130797033600000000" Dst="0" />
+<file name="ConnectException.php" server="ftp.communitycloud.in" local="130862053595133676" remote="130797033600000000" Dst="0" />
+<file name="GuzzleException.php" server="ftp.communitycloud.in" local="130862053612983002" remote="130797033600000000" Dst="0" />
+<file name="RequestException.php" server="ftp.communitycloud.in" local="130862053613213165" remote="130797033600000000" Dst="0" />
+<file name="SeekException.php" server="ftp.communitycloud.in" local="130862053613283197" remote="130797033600000000" Dst="0" />
+<file name="ServerException.php" server="ftp.communitycloud.in" local="130862053631949685" remote="130797033600000000" Dst="0" />
+<file name="TooManyRedirectsException.php" server="ftp.communitycloud.in" local="130862053632019734" remote="130797033600000000" Dst="0" />
+<file name="TransferException.php" server="ftp.communitycloud.in" local="130862053632069761" remote="130797033600000000" Dst="0" />
+</dwsync>
